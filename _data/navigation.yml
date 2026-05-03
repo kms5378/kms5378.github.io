@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "TIL"
+    url: /categories/#til
+  - title: "WIL"
+    url: /categories/#wil
+  - title: "Tags"
+    url: /tags/
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Search"
+    url: /search/
+  - title: "About"
+    url: /about/
